@@ -83,12 +83,10 @@ This dataset contains **shopping information from 10 different malls** with reco
 ## 📸 Dashboard Preview
 
 ### **📍 Page 1**
-<img width="1240" height="714" alt="image" src="<img width="1103" height="636" alt="image" src="https://github.com/user-attachments/assets/65b54c94-48d4-42d1-9cd9-9b4114b95ba1" />
-" />
+<img width="1103" height="636" alt="image" src="https://github.com/user-attachments/assets/65b54c94-48d4-42d1-9cd9-9b4114b95ba1" />
 
 ### **📍 Page 2**
-<img width="1240" height="714" alt="image" src=<img width="1099" height="638" alt="image" src="https://github.com/user-attachments/assets/bade11c9-ee4d-48d8-8e88-248ace2d0a4d" />
-" />
+<img width="1099" height="638" alt="image" src="https://github.com/user-attachments/assets/bade11c9-ee4d-48d8-8e88-248ace2d0a4d" />
 
 ---
 
@@ -99,9 +97,6 @@ This dataset contains **shopping information from 10 different malls** with reco
 Institute: **DataMites**  
 Capstone project for **Customer Data Analysis** program  
 
----
-
-## 📂 Repository Structure
 
 ---
 
