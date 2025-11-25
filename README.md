@@ -1,4 +1,4 @@
-# 🛍️ Customer Shopping Data Analysis (Power BI Project)
+# 🛍️ Customer Data Analysis (Power BI)
 
 A comprehensive analysis of customer shopping behavior across multiple shopping malls in Istanbul between **2021–2023**, aimed at uncovering insights that support data-driven business decision-making.
 
