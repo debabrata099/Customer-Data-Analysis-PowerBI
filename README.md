@@ -29,7 +29,6 @@ This dataset contains **shopping information from 10 different malls** with reco
 ## 🛠 Tools & Technologies Used
 - **Power BI** – Data visualization & dashboard creation  
 - **Excel** – Pre-processing and cleaning  
-- **SQL** – Query-based data analysis  
 
 ---
 
