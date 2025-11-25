@@ -83,10 +83,10 @@ This dataset contains **shopping information from 10 different malls** with reco
 ## 📸 Dashboard Preview
 
 ### **📍 Page 1**
-https://github.com/debabrata099/Customer-Data-Analysis-PowerBI/blob/main/Dashboard/Page%201.png
+<img width="1240" height="714" alt="image" src="https://github.com/debabrata099/Customer-Data-Analysis-PowerBI/blob/main/Dashboard/Page%201.png" />
 
 ### **📍 Page 2**
-https://github.com/debabrata099/Customer-Data-Analysis-PowerBI/blob/main/Dashboard/Page%202.png
+<img width="1240" height="714" alt="image" src="https://github.com/debabrata099/Customer-Data-Analysis-PowerBI/blob/main/Dashboard/Page%202.png" />
 
 ---
 
